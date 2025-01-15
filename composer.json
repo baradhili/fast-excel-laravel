@@ -1,5 +1,5 @@
 {
-    "name": "avadim/fast-excel-laravel",
+    "name": "karlvalentin/fast-excel-laravel",
     "description": "Lightweight and very fast XLSX Excel Spreadsheet Export/Import for Laravel",
     "keywords": [
         "excel",
@@ -13,7 +13,7 @@
         "office 2007"
     ],
     "type": "library",
-    "homepage": "https://github.com/aVadim483/fast-excel-laravel",
+    "homepage": "https://github.com/karlvalentin/fast-excel-laravel",
     "license": "MIT",
     "autoload": {
         "psr-4": {
